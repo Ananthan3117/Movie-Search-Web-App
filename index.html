@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Login Page -->
+  <div class="container" id="loginPage">
+    <div class="card">
+      <h2>Login</h2>
+      <input type="email" id="email" placeholder="Enter Email" required>
+      <input type="password" id="password" placeholder="Enter Password" required>
+      <button onclick="login()">Login</button>
+      <p id="errorMsg"></p>
+    </div>
+  </div>
+
+  <!-- Movie Page -->
+  <div class="container" id="moviePage" style="display:none;">
+    <div class="card">
+      <h2>Movie Search</h2>
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Enter movie name">
+        <button onclick="searchMovies()">Search</button>
+      </div>
+      <ul id="movieList"></ul>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
