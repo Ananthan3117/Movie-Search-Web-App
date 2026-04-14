@@ -23,31 +23,19 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 
 ---
 
-## Screenshots
-
-![Home](screenshots/home.png)  
-![Search](screenshots/search.png)
-
----
-
 ## How to Run
-
-### Option 1 (VS Code)
-- Install Live Server extension  
-- Right click `index.html` → Open with Live Server  
-
-### Option 2 (Python)
-```bash
-python -m http.server
+- Open index.html using Live Server  
+OR  
+- Run `python -m http.server`  
+- Open `http://localhost:8000` in your browser  
 
 ---
 
-##  License
+## License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-##  Author
-**Ananthakrishnan A L**  
-ananthan31117@gmail.com  
-[GitHub Profile](https://github.com/yourusername)
+## Author
+Ananthakrishnan A L  
+https://github.com/Ananthan3117
