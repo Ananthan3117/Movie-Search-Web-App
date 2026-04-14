@@ -35,3 +35,8 @@ A simple movie search web application built using HTML, CSS, and JavaScript.
 
 ## Notes
 - Replace OMDb API key in app.js
+
+## Screenshots
+
+![Home](screenshots/home.png)
+![Search](screenshots/search.png)
