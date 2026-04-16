@@ -6,6 +6,11 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 
 ---
 
+## Live Demo
+https://Ananthan3117.github.io/movie-app
+
+---
+
 ## Features
 - User login with local JSON validation  
 - Movie search using OMDb API  
@@ -37,7 +42,16 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 - Open index.html using Live Server  
 OR  
 - Run `python -m http.server`  
-- Open `http://localhost:8000` in your browser  
+- Open `http://localhost:8000` in your browser
+
+---
+
+## Demo Login
+
+Use the following credentials to test the application:
+
+Email: Test@example.com  
+Password: 5678
 
 ---
 
