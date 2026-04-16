@@ -1,6 +1,6 @@
 # Movie App
 
-![App Screenshot](screenshots/home.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simple movie search web application built using HTML, CSS, and JavaScript. Users can log in, search for movies using the OMDb API, and view details like title, year, and poster. Each movie includes a YouTube redirect link for trailers.
 
@@ -12,6 +12,16 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 - Displays movie posters, titles, and year  
 - Redirects to YouTube for trailer search  
 - Responsive UI  
+
+---
+
+##  Screenshots
+
+### Login Page
+![Login Page](screenshots/home.png)
+
+### Search Page
+![Search Page](screenshots/search.png)
 
 ---
 
