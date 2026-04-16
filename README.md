@@ -9,6 +9,11 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 ## Live Demo
 [https://Ananthan3117.github.io/movie-app](https://ananthan3117.github.io/Movie-Search-Web-App/)
 
+Use the following credentials to test the application:
+
+Email: Test@example.com  
+Password: 5678
+
 ---
 
 ## Features
@@ -43,15 +48,6 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 OR  
 - Run `python -m http.server`  
 - Open `http://localhost:8000` in your browser
-
----
-
-## Demo Login
-
-Use the following credentials to test the application:
-
-Email: Test@example.com  
-Password: 5678
 
 ---
 
