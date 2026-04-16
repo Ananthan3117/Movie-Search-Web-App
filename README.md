@@ -1,4 +1,4 @@
-# Movie Search Web App
+# Movie-Search-Web-App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
