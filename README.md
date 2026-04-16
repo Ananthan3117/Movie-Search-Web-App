@@ -7,7 +7,7 @@ A simple movie search web application built using HTML, CSS, and JavaScript. Use
 ---
 
 ## Live Demo
-https://Ananthan3117.github.io/movie-app
+[https://Ananthan3117.github.io/movie-app](https://ananthan3117.github.io/Movie-Search-Web-App/)
 
 ---
 
